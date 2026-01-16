@@ -1,0 +1,4 @@
+method: graph_rules
+params:
+  shared_device_threshold: 3
+target: fraud
