@@ -1,0 +1,5 @@
+random_seed: 42
+n_borrowers: 5000
+fraud_rate: 0.03
+thin_file_rate: 0.35
+train_ratio: 0.7
